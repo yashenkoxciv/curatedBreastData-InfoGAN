@@ -140,5 +140,6 @@ dependencies:
   - zstd=1.4.4=h0b5b093_3
   - pip:
     - ipdb==0.13.3
+    - xgboost==1.1.1
 prefix: /home/ahab/anaconda3/envs/crd
 
